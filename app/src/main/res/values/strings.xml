@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="name_developer">Ilya Dugin</string>
+    <string name="job_position">Backend and Android Developer</string>
+    <string name="tg_link">\@zazaxlazy</string>
+    <string name="email_link">tnt228337@gmail.com</string>
+</resources>
